@@ -5,7 +5,13 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+.logo-name {
+    font-family: 'Sacramento', cursive;
+}
+.nav-links
+{
+    font-family: 'Montserrat', sans-serif;
+}
 body{
     
     display: flex;
